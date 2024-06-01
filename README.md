@@ -43,7 +43,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 
 ## Contact
 
-Author: robert.mccreary@codex.academy
+Author: dcnejohnson@gmail.com
 
 ## Acknowledgements
 
